@@ -1,0 +1,1 @@
+Spotify API Consumption to Display Artist, Album, and Profile.
